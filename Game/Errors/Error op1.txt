@@ -1,0 +1,19 @@
+Q1: 9 + 5 = 14 (Correct Answer 14) Correct
+Q2: 0 + 6 = 6 (Correct Answer 6) Correct
+Q3: 9 + 5 = 14 (Correct Answer 14) Correct
+Q4: 7 + 0 = 7 (Correct Answer 7) Correct
+Q5: 10 + 2 = 12 (Correct Answer 12) Correct
+Q6: 8 + 10 = 18 (Correct Answer 18) Correct
+Q7: 2 + 10 = 12 (Correct Answer 12) Correct
+Q8: 2 + 5 = 7 (Correct Answer 7) Correct
+Q9: 5 + 2 = 7 (Correct Answer 7) Correct
+Q10: 3 + 4 = 7 (Correct Answer 7) Correct
+
+Correct Answers :  10
+Traceback (most recent call last):
+  File "C:\Users\ktkrk\Desktop\Game\CustomGame\CustEasy.py", line 40, in <module>
+    print(easy())
+  File "C:\Users\ktkrk\Desktop\Game\CustomGame\CustEasy.py", line 37, in easy
+    precentage == int((tot/qnum)*100)
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
+>>> 

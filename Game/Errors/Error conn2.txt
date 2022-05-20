@@ -1,0 +1,14 @@
+Q1: 2 + 8 = 10 (Correct Answer 10) Correct
+Q2: 3 + 6 = 9 (Correct Answer 9) Correct
+Q3: 8 + 9 = 17 (Correct Answer 17) Correct
+Q4: 1 + 8 = 9 (Correct Answer 9) Correct
+Q5: 5 + 8 = 13 (Correct Answer 13) Correct
+
+Correct Answers :  5
+Your results presentage is =  100.0 %
+Traceback (most recent call last):
+  File "C:/Users/ktkrk/Desktop/Game/sample.py", line 65, in <module>
+    print(QGame())
+  File "C:/Users/ktkrk/Desktop/Game/sample.py", line 43, in QGame
+    col = [player,correct,question,precentage]
+UnboundLocalError: local variable 'player' referenced before assignment

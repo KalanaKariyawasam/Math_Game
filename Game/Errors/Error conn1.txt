@@ -1,0 +1,14 @@
+Q1: 1 + 9 = 10 (Correct Answer 10) Correct
+Q2: 3 + 4 = 7 (Correct Answer 7) Correct
+Q3: 3 + 8 = 11 (Correct Answer 11) Correct
+Q4: 3 + 7 = 10 (Correct Answer 10) Correct
+Q5: 5 + 0 = 5 (Correct Answer 5) Correct
+
+Correct Answers :  5
+Your results presentage is =  100.0 %
+Traceback (most recent call last):
+  File "C:\Users\ktkrk\Downloads\CustEasy.py", line 69, in <module>
+    print(easy())
+  File "C:\Users\ktkrk\Downloads\CustEasy.py", line 53, in easy
+    col = [player,correct,question,precentage]
+NameError: name 'player' is not defined
